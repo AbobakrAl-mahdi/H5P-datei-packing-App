@@ -19,6 +19,6 @@ public class Ratespiel {
 	public static void main (String[] args) {
 		int zahl = Integer.parseInt(args[0]);
 		computerRaten(zahl);
-		System.out.println("this is to git");
+		
 	}
 }
